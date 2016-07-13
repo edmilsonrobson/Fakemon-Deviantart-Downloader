@@ -11,5 +11,6 @@ Python 2.7
 4. Open the 'main.py' file inside of the IDLE.
 5. Run it (F5).
 6. Follow the instructions to filter the results
-7. That's it. Gotta catch 'em all...! (?)
+7. Images will be saved inside the folder "imgs".
+8. That's it. Gotta catch 'em all...! (?)
 
