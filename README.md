@@ -1,4 +1,4 @@
-# fakemon-deviantart-downloader
+# Fakemon-Deviantart-Downloader
 A simple python script that digs for Fakemon on the DeviantArt website.
 
 ## Python version
